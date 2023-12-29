@@ -1,4 +1,4 @@
 # Git_GitHub
 This is a learning repo for Git
 <br>
-Author - Rehatpreet kaur
+Author - Rehatpreet kaur (learner)
